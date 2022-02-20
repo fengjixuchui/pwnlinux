@@ -116,4 +116,3 @@
 * [Kernel Research / mmap handler exploitation](https://deshal3v.github.io/blog/kernel-research/mmap_exploitation)
 * [Multiple Kernel Vulnerabilities Affecting All Qualcomm Devices](https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/)
 * [Stream Cut: Android Kernel Exploitation with Binder Use-After-Free (CVE-2019-2215)](https://www.youtube.com/watch?v=yrLXvmzUQME)
-* []()
